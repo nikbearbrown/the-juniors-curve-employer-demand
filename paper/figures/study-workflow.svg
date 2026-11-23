@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 315" role="img" aria-labelledby="title desc">
+<title id="title">From observed postings to a comparable cohort</title>
+<desc id="desc">Fixed board snapshots lead to deduplication, description-based eligibility and duty coding, then a comparison with counts and coverage.</desc>
+<rect width="960" height="315" fill="#fff"/>
+<text x="28" y="34" fill="#132637" font-family="sans-serif" font-size="22" font-weight="bold">From observed postings to a comparable cohort</text>
+<text x="28" y="62" fill="#263d50" font-family="sans-serif" font-size="15">Proposed protocol · No outcome data</text>
+<defs><marker id="arrow" markerWidth="9" markerHeight="9" refX="8" refY="4.5" orient="auto"><path d="M0 0 L9 4.5 L0 9 Z" fill="#314759"/></marker></defs>
+<path d="M234 174 L250 174" stroke="#314759" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
+<path d="M460 174 L476 174" stroke="#314759" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
+<path d="M686 174 L702 174" stroke="#314759" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
+<rect x="28" y="113" width="205" height="122" rx="7" fill="#eef4fa" stroke="#314759" stroke-width="2"/>
+<text x="40" y="142" fill="#132637" font-family="sans-serif" font-size="16" font-weight="bold">Observe boards</text>
+<text x="40" y="165" fill="#243c50" font-family="sans-serif" font-size="13">Fixed sources and cadence</text>
+<text x="40" y="183" fill="#243c50" font-family="sans-serif" font-size="13">Track outages and open stock</text>
+<rect x="254" y="113" width="205" height="122" rx="7" fill="#eef4fa" stroke="#314759" stroke-width="2"/>
+<text x="266" y="142" fill="#132637" font-family="sans-serif" font-size="16" font-weight="bold">Deduplicate</text>
+<text x="266" y="165" fill="#243c50" font-family="sans-serif" font-size="13">Identify distinct postings</text>
+<text x="266" y="183" fill="#243c50" font-family="sans-serif" font-size="13">Keep first-seen evidence</text>
+<rect x="480" y="113" width="205" height="122" rx="7" fill="#eef4fa" stroke="#314759" stroke-width="2"/>
+<text x="492" y="142" fill="#132637" font-family="sans-serif" font-size="16" font-weight="bold">Review and code</text>
+<text x="492" y="165" fill="#243c50" font-family="sans-serif" font-size="13">Check entry eligibility</text>
+<text x="492" y="183" fill="#243c50" font-family="sans-serif" font-size="13">Code duties by phase</text>
+<text x="492" y="201" fill="#243c50" font-family="sans-serif" font-size="13">Keep unknowns separate</text>
+<rect x="706" y="113" width="226" height="122" rx="7" fill="#eef4fa" stroke="#314759" stroke-width="2"/>
+<text x="718" y="142" fill="#132637" font-family="sans-serif" font-size="16" font-weight="bold">Compare windows</text>
+<text x="718" y="165" fill="#243c50" font-family="sans-serif" font-size="13">Show counts and denominators</text>
+<text x="718" y="183" fill="#243c50" font-family="sans-serif" font-size="13">Check employer and family mix</text>
+</svg>
