@@ -4,7 +4,8 @@
 
 Job ads measure stated demand in the sources we observe. They do not measure who was hired or how people spend their workday.
 
-- [Rough manuscript](paper/manuscript.md)
+- [Rough manuscript for author review](paper/manuscript-author-review.md)
+- [Original manuscript](paper/manuscript.md) · [Silent critique](critiq-output/author-review.md)
 - [How to contribute](contributing.md)
 - [Draft collaborator email, not sent](contributor-invitation.md)
 
